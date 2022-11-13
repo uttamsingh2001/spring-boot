@@ -1,0 +1,16 @@
+
+Q
+java:S3740'"/Provide the parametrized type for this generic.(µž÷Åÿÿÿÿÿ8ÃšŒø¾0
+V	java:S125"<This block of commented-out lines of code should be removed.(ÑðÀ­ûÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(âÐ±áüÿÿÿÿ
+]	java:S125"<This block of commented-out lines of code should be removed.(ˆá¡úøÿÿÿÿ8ð¼å÷¾0
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(Ùê‹Ùþÿÿÿÿ
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(Ä··Óüÿÿÿÿ8¾Ù±ø¾0
+H
+java:S1481'"&Remove this unused "e" local variable.(µž÷Åÿÿÿÿÿ8óõ‹ø¾0
+Q
+java:S1128"4Remove this unused import 'org.w3c.dom.ls.LSOutput'.(Ò½¾Š8ÖšŒø¾0
+T
+java:S1128"2Remove this unused import 'java.net.Inet4Address'.(ê…ÉÃúÿÿÿÿ8×šŒø¾0
+V
+java:S1128	"9Remove this unused import 'java.util.function.Predicate'.(ïÍ–¶8×šŒø¾0

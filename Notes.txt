@@ -1,0 +1,30 @@
+redundancy :  HAving more machines as a back-up purpose.
+
+
+monolithic vs Microservices
+
+
+vertical scaling and Horizontal scaling
+
+
+1:Splunk
+2:ELK 
+3:SumoLogic
+4 : AWS Cloud
+
+WLS  : Windows Sub-system for Linux
+
+HA :  High Availibilty
+
+DR  :
+
+GB,TB,PB,ZB
+****************************************************
+Videos on Virtualization
+Containerization  :    
+			Docker  : Install
+			Docker Registry  (Image)
+
+Containerization vs virtualization
+
+Diff types of Containerization

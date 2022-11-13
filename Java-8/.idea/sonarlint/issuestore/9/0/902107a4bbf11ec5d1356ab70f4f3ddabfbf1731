@@ -1,0 +1,16 @@
+
+^
+java:S1854
+"<Remove this useless assignment to local variable "consumer".(¬œÌ³ıÿÿÿÿ8ˆÎÌø¾0
+s
+java:S4276
+"QRefactor this code to use the more specialised Functional Interface 'IntConsumer'(¬œÌ³ıÿÿÿÿ8‰ÎÌø¾0
+Z	java:S106
+"9Replace this use of System.out or System.err by a logger.(¬œÌ³ıÿÿÿÿ8°è±÷¾0
+O
+java:S1481
+"-Remove this unused "consumer" local variable.(¬œÌ³ıÿÿÿÿ8ŠÎÌø¾0
+]	java:S125"<This block of commented-out lines of code should be removed.(ÕÖùûÿÿÿÿ8“Ş²÷¾0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¹ßüô8ŒÎÌø¾0
+Q
+java:S1128"4Remove this unused import 'java.util.stream.Stream'.(ó÷”8²è±÷¾0

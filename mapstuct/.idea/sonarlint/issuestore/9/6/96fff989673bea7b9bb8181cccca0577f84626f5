@@ -1,0 +1,15 @@
+
+Q
+java:S3740?"/Provide the parametrized type for this generic.(‰êÓûÿÿÿÿ8£üıš¶0
+
+java:S1488 "dImmediately return this expression instead of assigning it to the temporary variable "postResponse".(Ÿ˜Áüÿÿÿÿ
+z
+java:S1488/"dImmediately return this expression instead of assigning it to the temporary variable "postResponse".(¤½ì
+
+java:S14885"dImmediately return this expression instead of assigning it to the temporary variable "postResponse".(£İãùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(–·­
+V	java:S125%"<This block of commented-out lines of code should be removed.(àëâ´şÿÿÿÿ
+T
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8¶’€›¶0
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8¶’€›¶0

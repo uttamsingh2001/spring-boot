@@ -1,0 +1,8 @@
+
+~
+java:S1488+"hImmediately return this expression instead of assigning it to the temporary variable "employeeRequests".(ú…ßà
+V	java:S1252"<This block of commented-out lines of code should be removed.(À›·˛˚ˇˇˇˇ
+E
+java:S1874<"/Remove this use of "getById"; it is deprecated.(ñÒ∑Ê
+^
+java:S1854G"CRemove this useless assignment to local variable "employeeRequest".(´£¢≠˚ˇˇˇˇ
